@@ -14,7 +14,7 @@
 <img src="https://github.com/fabiogalvao-cmd/easy-shopping/blob/main/assets/Captura%20de%20Tela%20(2).png?raw=true"/>
 <br>
 
-<h2>Alternado para o Mobile:</h2>
+<h2>Com responsividade:</h2>
 <br>
 
  <img src="https://github.com/fabiogalvao-cmd/easy-shopping/blob/main/assets/Captura%20de%20Tela%20(3).png"/>
